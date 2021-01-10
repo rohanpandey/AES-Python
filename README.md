@@ -1,3 +1,3 @@
 # AES-Python
 
-Implementation of AES in python.
+This repository contains a python implementation of AES encryption and decryption in python.
